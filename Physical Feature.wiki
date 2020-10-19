@@ -1,0 +1,53 @@
+==Physical Feture Factors ==
+
+* Chang
+  - jalan
+  - kualitas jalan
+  - elemen alami
+  - kualitas alami
+  - elemen air
+  - tempat duduk
+  - kualitas tempat duduk
+  - ruang terbuka
+  - fasilitas
+  - estetika
+
+* EAPRS
+1. Trail/path
+   - paved trail
+   - unpaved trail
+   - path
+2. Spesific use area
+- Open space
+- wooded area
+- picnic area
+- camping site
+- entertainment
+- parking lot
+3. water area
+- wetland
+- fishing area
+- fountain
+- sea
+
+4. other aminities and facilities
+- restroom
+- recration center
+- benches
+- landscapping
+- sculpture
+- enterance
+- sidewalk
+
+5. playground equipment and field and court
+- playset
+- ground surface
+- swing
+- climbers
+- playset
+- skate and skateboard area
+- spesific filed eg. soccer
+- spesific court eg basketball
+
+
+
