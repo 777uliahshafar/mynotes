@@ -5,9 +5,10 @@
 ==  Penelitian Variabel ==
 * [[Physical Feature]]
 * [[Outdoor activity]]
+* [[Flowchart]]
+* [[Family Tree]]
 
-
-
-
-
+= Building Website =
+* [[Ide dan Konsep]]
+* [[Technical Stuff]]
 

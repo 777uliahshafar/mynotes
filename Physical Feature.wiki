@@ -1,5 +1,12 @@
 ==Physical Feture Factors ==
 
+
+===How to measure ===
+1. 1 = poor
+2. 2 = fair
+3. 3 = excelent
+
+
 * Chang
   - jalan
   - kualitas jalan
@@ -48,6 +55,54 @@
 - skate and skateboard area
 - spesific filed eg. soccer
 - spesific court eg basketball
+
+* Used Variabel
+
+1. Elemen jalan
+   - Tempat duduk sepanjang jalan
+   - Lanskap pada jalan
+   - Adanya marka jalan
+   - Elemen Pencahayaan di jalan
+   - Elemen Air di jalan
+   - Tempat sampah di jalan
+   - Jalan
+   - Jalani paving
+2. Kualitas Jalan
+   - Kenyamanan jalan
+   - Estetika sisi
+   - Kondisi jalan
+3. Elemen tempat duduk
+   - Meja
+   - Bangku
+   - Bangku komunal
+4. Kualitas tempat duduk
+   - Kondisi Tempat duduk
+5. Elemen Alami
+   - Waterfront*
+   - Bunga
+   - Pepohonan
+   - Semak-semak
+   - Berwarna
+   - Fitur Lanskap*
+7. Kualitas alam
+   - kondisi alam
+8. Fasilitas
+   - Konsesi
+   - Restroom
+   - Patung
+   - Jalan menuju park
+9. Estetika
+   - pemandangan diluar ada
+   - isi pemandangan - area air
+   - isi pemandangan - cityscape
+   - isi pemandangan - alami
+   - isi pemandangan - lainnya
+   - hubungan jalan ke area pemandangan
+   - ketersediaan tempat duduk
+   - marka
+
+
+
 
 
 
