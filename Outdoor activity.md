@@ -1,7 +1,6 @@
 == Outdoor Activty ==
 
 === How to measure ===
-Frequency of participation
 
 1. 1 = never
 2. 2 = none in the preceding month

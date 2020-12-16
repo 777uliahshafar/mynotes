@@ -1,7 +1,7 @@
-==Physical Feture Factors ==
+== Physical Feture Factors ==
 
 
-===How to measure ===
+=== How to measure ===
 1. 1 = poor
 2. 2 = fair
 3. 3 = excelent
@@ -47,6 +47,7 @@
 - sidewalk
 
 5. playground equipment and field and court
+6.
 - playset
 - ground surface
 - swing
@@ -100,9 +101,4 @@
    - hubungan jalan ke area pemandangan
    - ketersediaan tempat duduk
    - marka
-
-
-
-
-
-
+   -
