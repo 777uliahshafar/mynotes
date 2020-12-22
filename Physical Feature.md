@@ -102,3 +102,4 @@
    - ketersediaan tempat duduk
    - marka
    -
+10.

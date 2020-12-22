@@ -1,25 +1,23 @@
-- My notes \*
+* My notes
 
-= GDP =
+# Monetize Blog
+
+## Knowledge
+* [[Ahref]]
+* [[Finding Niche]]
+* [[Keyword Generated]]
+* [[Content Tips]]
+
+## Building Website
+
+* [[Ide dan Konsep]]
+* [[Technical Stuff]]
+
+
+# GDP
 
 == Penelitian Variabel ==
-
-- [[Physical Feature]]
-- [[Outdoor activity]]
-- [[Flowchart]]
-- [[Family Tree]]
-
-= Monetize Blog =
-
-- [[Finding Niche]]
-
-== Building Website ==
-
-- [[Ide dan Konsep]]
-- [[Technical Stuff]]
-
-== Lomba Blog ==
-
-- [[Syarat & Ketentuan]]
-- [[Jne Menulis]]
-- [[Qword Menulis]]
+* [[Physical Feature]]
+* [[Outdoor activity]]
+* [[Flowchart]]
+* [[Family Tree]]
