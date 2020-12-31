@@ -1,0 +1,2 @@
+- https://www.organized-home.com/
+- https://www.peaceofmindorganizing.com/blog

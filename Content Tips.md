@@ -1,4 +1,5 @@
-# Tips and Trick
+# How-to for Content Creation
+Information about how optimize content for SEO.
 
 ## Include keyword in contents
 * In the title tag

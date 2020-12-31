@@ -1,31 +1,20 @@
 # Niche Topic
 
-## Beberapa Niche
-- desain rumah
--
+## Categories niches:
+[[Category Niches]]
 
-## Some Niche
-Niches with high seo rank in america but low in Indonesia.
+## Potential Affiliate Web
+1. [Declutter fast](https://www.declutterfast.com/)
+Info :
+-   Gravity     : 2.48
+-   Avg / conv  : $23.67
+[[Organizing Trick]]
+[[Organizing home]]
 
-- guest room design
-- interior design for guest room
-- guest room design
-- design of guest room
-- guest room design ideas
-- design a guest room
-- guest room office design
-- small guest room design
-- guest room colour design
-- interior design of guest room
-- guest room design furniture
-- interior design for guest room
-- den guest room design ideas
-- home office guest room design ideas
-- craft room guest room design ideas
-- office guest room design ideas
-- small guest room design ideas
+-  [[Declutter Website]]
 
-# Reference website
+
+# Big Website
 This website rely on an ads
 * I got these from top search "guest room design furniture"
 [Homeedit](https://www.homedit.com) : home design blog.
