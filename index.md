@@ -1,32 +1,44 @@
 * My notes
 
-# Monetize Blog
+# GDP
 
+## Penelitian Variabel
+- [[New subject]]
+- [[Physical Feature]]
+- [[Outdoor activity]]
+- [[Flowchart]]
+- [[Family Tree]]
+
+# Konten Kost Ada
+- [[rumah kontrakan di parepare]]
+- [[rumah btn murah di parepare]]
+
+
+%%----------------------------------------------------------------------------------------
+
+# Monetize Blog
 ## Knowledge
 * [[Affirmation]]
-* [[Hositng provider]]
 * [[Ahref]]
 * [[Seo Blog]]
-* [[Finding Niche]]
-* [[Generated Keyword]]
-* [[Keyword Tips]]
-* [[Content Tips]]
-* [[Keywords tools Comparison]]
 * [[Affiliate Programs]]
+* [[Hositng provider]]
 
-## Building Website
+## Keyword Research & Content Creation
+* [[Finding Niche]]
+* [[Keywords tools Comparison]]
+* [[Generated Keyword]]
+* [[Content Tips]]
+* [[Keyword Tips]]
 
+## Technical Website
+* [[Staticman Comment]]
+* [[Generate SSH key]]
 * [[Ide dan Konsep]]
 * [[Technical Stuff]]
 
 ## Active Payment
 * Bitwarden 21-12-2020 (a year)
-* Ultra Payment 22-08-2020(A year)
-
-# GDP
-
-== Penelitian Variabel ==
-* [[Physical Feature]]
-* [[Outdoor activity]]
-* [[Flowchart]]
-* [[Family Tree]]
+* Ultravpn Payment 22-08-2020 (a year)
+* Niagahoster domain 16-12-2020 (a year)
+* DreamIT shared hosting 09-01-2021 (a year)

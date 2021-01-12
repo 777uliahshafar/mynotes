@@ -7,10 +7,16 @@ Requirement for hosting providers
 - Free ssl or cheap
 
 - [X] Siteground : it used credit card.
-- [X] Hostpapa : no near server
+- [X] Hostpapa : the renewal is no cheap
 - [X] Godaddy : ssl overpriced
 - [X] Bluehost: no near server
 - [X] Digital Pasific : lack of payment methods
-- [ ] Hostgator : less good review
+- [X] Hostgator : less good review
+- [X] Hostinger : not using cpanel
+- [X] Hosting-australia : No cheap, 1.8 a year with 3month plan
 
-Hostinger can become one option for hosting gatsby statis site.
+A2 Hostinger
+singapore
+paypal
+1.000.000,- a year
+free ssl
